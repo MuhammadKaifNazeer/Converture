@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     keywords:
         "image converter, video converter, audio converter, unlimited image converter, unlimited video converter, free converter, free image converter, free video converter, free audio converter",
     icons: {
-        icon: "/images/logo.svg",
+        icon: "/favicon.ico",
     },
 };
 
