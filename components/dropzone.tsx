@@ -40,8 +40,6 @@ const extensions: { [key: string]: string[] } = {
     "ico",
     "tif",
     "tiff",
-    "svg",
-    "raw",
     "tga",
   ],
   video: [
