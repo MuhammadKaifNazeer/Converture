@@ -100,7 +100,7 @@ const Navbar: React.FC = () => {
                                     <Link
                                         className="ml-4 block"
                                         target="_blank"
-                                        href="https://github.com/MuhammadKaifNazeer/Conventure"
+                                        href="https://github.com/MuhammadKaifNazeer/Converture"
                                     >
                                         <span className="relative z-20 block cursor-pointer rounded-xl bg-primary px-8 py-3 text-center text-sm text-white font-semibold shadow-2xl flex items-center justify-center">
                                             <Github className="mr-1 w-4 h-4" />
@@ -176,7 +176,7 @@ const Navbar: React.FC = () => {
                     className="ml-4 block"
                     onClick={toggleMenu}
                     target="_blank"
-                    href="https://github.com/MuhammadKaifNazeer/Conventure"
+                    href="https://github.com/MuhammadKaifNazeer/Converture"
                 >
                     <span className="relative z-20 block cursor-pointer rounded-xl bg-primary px-8 py-3 text-center text-sm text-white font-semibold shadow-2xl flex items-center justify-center">
                         <Github className="mr-1 w-4 h-4" />
